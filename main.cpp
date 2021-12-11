@@ -1,5 +1,5 @@
 #include <iostream>
-#include "libj.h"
+#include "lib.h"
 using namespace std;
 int main(){
     int a=0;
