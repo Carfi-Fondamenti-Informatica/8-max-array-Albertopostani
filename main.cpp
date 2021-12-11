@@ -11,5 +11,5 @@ int main(){
     }
     cout<<funzione(matrice,a);
     return 0;
-}
+    }
 
